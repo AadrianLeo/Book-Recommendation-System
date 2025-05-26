@@ -1,0 +1,10 @@
+pandas
+numpy==1.23.5
+matplotlib
+seaborn
+scikit-learn
+scipy
+scikit-surprise
+notebook
+jupyter
+# jupyterlab
