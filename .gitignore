@@ -6,6 +6,8 @@ __pycache__/
 *.py[cod]
 *.so
 
+.PPT/
+PPT/
 # Data files (adjust as needed)
 *.csv
 *.tsv
