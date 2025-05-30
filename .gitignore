@@ -8,7 +8,6 @@ __pycache__/
 
 .PPT/
 PPT/
-*.csv
 *.tsv
 *.xlsx
 *.h5
