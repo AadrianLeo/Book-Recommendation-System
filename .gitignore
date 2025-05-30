@@ -8,7 +8,6 @@ __pycache__/
 
 .PPT/
 PPT/
-# Data files (adjust as needed)
 *.csv
 *.tsv
 *.xlsx
