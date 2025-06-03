@@ -79,7 +79,7 @@ Place the following files in a `data/` directory:
 
 ## 📎 Authors
 
-[@Shruti Pashine](https://github.com/shrutipashine2915), [@Shadi Farzankia](https://github.com/ShadiFarzankia), [@Dharampal Singh](https://github.com/AadrianLeo)
+[@Shruti Pashine](https://github.com/shrutipashine), [@Shadi Farzankia](https://github.com/ShadiFarzankia), [@Dharampal Singh](https://github.com/AadrianLeo)
 
 ---
 
